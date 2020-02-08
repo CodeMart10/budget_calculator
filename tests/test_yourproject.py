@@ -1,5 +1,5 @@
-import yourproject
+import py_game
 
 def test_import():
-    assert yourproject
+    assert py_game
 

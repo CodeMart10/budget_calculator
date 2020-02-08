@@ -17,7 +17,7 @@ $ git init
 
 *Don't forget to reinitialize git for your new project repo!*
 
-Use grep to find all instances of the name `yourproject` in all the files and change them your project's name. Then add your contact info to `setup.py`.
+Use grep to find all instances of the name `py_game` in all the files and change them your project's name. Then add your contact info to `setup.py`.
 
 
 ## Installation
@@ -32,4 +32,3 @@ You can run the tests with the `pytest` command. You can learn more about this c
 If you would like to see changes to this project skeleton, start a conversation as an Issue to discuss your plans.
 
 Pull Requests are always welcome!
-
