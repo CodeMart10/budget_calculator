@@ -17,7 +17,7 @@ $ git init
 
 *Don't forget to reinitialize git for your new project repo!*
 
-Use grep to find all instances of the name `py_game` in all the files and change them your project's name. Then add your contact info to `setup.py`.
+Use grep to find all instances of the name `fiyur` in all the files and change them your project's name. Then add your contact info to `setup.py`.
 
 
 ## Installation
