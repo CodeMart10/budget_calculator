@@ -5,12 +5,12 @@ with open("README.md", "r") as f:
 
 
 setuptools.setup(
-    name="fiyur"
+    name="budget_calculator"
     version="0.0.1",
     author="your name",
     author_email="your@email.com",
-    url="https://github.com/yourusername/fiyur",
-    description="what does fiyur do?",
+    url="https://github.com/yourusername/budget_calculator",
+    description="what does budget_calculator do?",
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),

@@ -1,4 +1,4 @@
-import fiyur
+import budget_calculator
 
 def test_import():
-    assert fiyur
+    assert budget_calculator
